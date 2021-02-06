@@ -43,7 +43,6 @@ void loop() {
         radio.read(&sensorValue, sizeof(sensorValue));
         Serial.println(sensorValue);
         if (sensorValue >= 512) {
-            // turn LED on:
             digitalWrite(outputPin, HIGH);
             Serial.println("Tidak Terdeteksi Api / Gas");
             serialSIM800.write("AT+CMGF=1\r\n");
