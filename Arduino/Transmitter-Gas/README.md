@@ -1,4 +1,4 @@
- Flowchart  Alat sensor gas MQ-6 transmitter
+Flowchart  Alat sensor gas transmitter
 
 ![3](https://user-images.githubusercontent.com/78655390/107148893-417b4b00-6988-11eb-9a3e-46d92d461275.png)
 
