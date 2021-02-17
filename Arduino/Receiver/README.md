@@ -40,3 +40,9 @@ Pemasangan pin komponen ke arduino
 
                 Ground  | GND          VCC      | 5V
                 SIM_TXD | D9           SIM_RXD  | D10
+
+Untuk lebih visualnya bisa dilihat gambar dibawah
+
+![Screenshot 2021-02-14 224621](https://user-images.githubusercontent.com/78655390/108192239-9cf6c700-7146-11eb-969b-0089c44accad.png)
+
+Fritzing Breadboard View Alat sensor api recever
