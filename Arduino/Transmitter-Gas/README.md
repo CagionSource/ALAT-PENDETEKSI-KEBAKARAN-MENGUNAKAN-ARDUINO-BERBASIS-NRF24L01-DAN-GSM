@@ -26,5 +26,5 @@ Pemasangan pin komponen ke arduino
                 Ground  | GND          VCC  | 5V
 
                 
-                A0      | A5
+                A0      | A0
                 
