@@ -6,24 +6,28 @@ Walaupun secara persentase kebakaran jarang terjadi tetapi dikutip dari http://s
 
 Komponen yang digunakan untuk membuat projek ini ialah :
 
-1.Arduino nano(x3) 
+1.Arduino nano (x3) 
 
-2.Flame Sensor(x2) 
+2.Flame Sensor (x2) 
 
 3.GSM 800L
 
-4.buzzer(x3)
+4.buzzer (x3)
 
-5.nRF24L01(x3)
+5.nRF24L01 (x3)
 
-6.Modul TP4056(x3)
+6.Modul TP4056 (x3)
 
 7.Sensor MQ-6
 
-8.swit kruke mini 2p(x3)
+8.Swit kruke mini 2p (x3)
 
 9.Project Board (x3)
 
-10.Kabel jamper 
+10.Kabel jamper (Secukupnya)
+
+11.Baterai li-ion 18650 (x6)
+
+12.Li-ion holder Box Case 2x 18650 (x3) 
 
 not : belum selesai
