@@ -27,4 +27,13 @@ Pemasangan pin komponen ke arduino
 
                 
                 A0      | A0
-                
+                 
+Untuk lebih visualnya bisa dilihat gambar dibawah
+
+![Screenshot 2021-02-18 222817](https://user-images.githubusercontent.com/78655390/108379846-e6bfda00-7238-11eb-9ea5-80bdd438fcb7.png)
+
+Fritzing Breadboard View Alat sensor gas transmitter
+
+![Screenshot 2021-02-18 222901](https://user-images.githubusercontent.com/78655390/108380083-1a9aff80-7239-11eb-98ab-046f5103e81b.png)
+
+Schematic Alat sensor gas transmitter
