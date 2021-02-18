@@ -46,3 +46,7 @@ Untuk lebih visualnya bisa dilihat gambar dibawah
 ![Screenshot 2021-02-14 224621](https://user-images.githubusercontent.com/78655390/108192239-9cf6c700-7146-11eb-969b-0089c44accad.png)
 
 Fritzing Breadboard View Alat sensor api recever
+
+![Screenshot 2021-02-18 223527](https://user-images.githubusercontent.com/78655390/108380651-a0b74600-7239-11eb-991e-a823a15f5961.png)
+
+Schematic Alat sensor api recever
